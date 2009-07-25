@@ -1,0 +1,17 @@
+BlackBot
+
+-----------------------
+
+BlackBot es una herramienta de monitoreo masivo de ordenadores con los sistemas operativos
+derivados de Unix (GNU/Linux,FreeBSD,Solaris) con ella puedes controlar remotamente el sistema
+con sencillos comandos podras contralarlo.
+
+La meta principal de este proyecto es de hacer una herramienta con la que tengas control total 
+del sistema en este caso de los tipos Unix/Like.
+
+No nos hacemos responsables por lo daños causados por esta herramienta, su creacion fue educacional :-).
+
+
+----------------------
+
+License: GPL
